@@ -1,0 +1,20 @@
+{
+  "IT": [
+    "[2026-10-30 16:00] Employee asked: hi | IT agent answered: Hello! How can I help you today? If you have any questions or issues related to IT, feel free to ask!",
+    "[2026-10-30 16:01] Employee asked: Hello, I am getting blue screen error in my laptop, need help to fix the issue. | IT agent answered: It looks like I couldn't find a specific article on blue screen errors in our knowledge base. However, here are some general steps you can take to troubleshoot the issue:  1. **Restart Your Laptop**: Sometimes, simply rebooting can resolve minor issues.     2. **Check for Loose Connections**: Ensure",
+    "[2026-10-30 16:26] Employee asked: hi | IT agent answered: It seems there isn't a specific article on blue screen errors in our knowledge base. Since we discussed some troubleshooting steps in our last conversation, you might want to try those again. Here are a few suggestions:  1. **Restart Your Laptop**: This can sometimes resolve minor errors. 2. **Check"
+  ],
+  "Admin": [
+    "[2026-10-30 16:01] Employee asked: Hi, I want to order and restock some office supplies like stationery, printer ink, and pantry items, what is the process? | Admin agent answered: Hello! To restock your office supplies such as stationery, printer ink, and pantry items, please follow these steps:  1. **Access the Admin Catalogue**: You can find the catalogue for ordering supplies. This is where you'll select the items you need. 2. **Place Your Order**: Fill in your order from "
+  ],
+  "HR": [
+    "[2026-10-30 16:01] Employee asked: Hi, I am currently working in support team, I want to move to Testing Department, what is the process to apply? | HR agent answered: It looks like I couldn't find specific information about the process for transferring to another department in the knowledge base. However, here’s generally how you can proceed:  1. **Discuss with Your Manager**: Inform your current manager about your interest in transferring to the Testing Departme"
+  ],
+  "Accounts": [
+    "[2026-10-30 16:01] Employee asked: Hi, I need itemized receipts for business travel and it is blocking employee reimbursements. | Accounts agent answered: Hello! To resolve the issue with your reimbursements due to missing itemized receipts for your business travel, please follow these steps:  1. **Gather Your Receipts**: Make sure you have all the itemized receipts for your travel expenses ready. 2. **Submit Claims**: Go to the Finance portal and sub",
+    "[2026-10-30 16:27] Employee asked: Hi, I need itemized receipts for business travel and it is blocking employee reimbursements. | Accounts agent answered: Hi there! It looks like you've encountered an issue with your reimbursements due to missing itemized receipts for your business travel. Here’s how you can resolve this:  1. **Gather Your Receipts**: Ensure you have all the itemized receipts for your travel expenses ready. This includes hotel, meals,"
+  ],
+  "Compliance": [
+    "[2026-10-30 16:02] Employee asked: Hi, I want to know if this comes under compliance - employees accepting expensive gifts, trips, or kickbacks from vendors or clients. | Compliance agent answered: Hello! Yes, the acceptance of expensive gifts, trips, or kickbacks from vendors or clients does fall under compliance. Here are the key points to keep in mind:  1. **Declaration Requirement**: Employees must declare any gifts valued over INR 2,000. 2. **Conflict of Interest**: It's important to disc"
+  ]
+}
